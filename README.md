@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a modern [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Features
+
+- The new NextJS experimental [app directory](https://nextjs.org/blog/next-13#new-app-directory-beta)
+- Typescript 4.9.4 with strict type checks
+- The bleeding edge [Yarn 4](https://github.com/yarnpkg/berry) for package management with out-of-the box support for [Zero Installs](https://yarnpkg.com/features/zero-installs)
+- [ESLint](https://eslint.org/) for linting) by default
+- [Prettier](https://prettier.io/) for code formatting
+- [Tailwind CSS](https://tailwindcss.com/) for styling
+- Configuration files so that everything plays nicely with `nvim` and [coc.nvim](https://github.com/neoclide/coc.nvim)
 
 ## Getting Started
 
@@ -26,9 +36,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
