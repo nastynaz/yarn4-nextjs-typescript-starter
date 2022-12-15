@@ -2411,28 +2411,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nasty-naz-nextjs@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "nasty-naz-nextjs@workspace:."
-  dependencies:
-    "@types/node": "npm:18.11.15"
-    "@types/prettier": "npm:^2"
-    "@types/react": "npm:18.0.26"
-    "@types/react-dom": "npm:18.0.9"
-    autoprefixer: "npm:^10.4.13"
-    eslint: "npm:8.29.0"
-    eslint-config-next: "npm:13.0.6"
-    next: "npm:13.0.6"
-    postcss: "npm:^8.4.20"
-    prettier: "npm:2.8.1"
-    prettier-plugin-tailwindcss: "npm:^0.2.1"
-    react: "npm:18.2.0"
-    react-dom: "npm:18.2.0"
-    tailwindcss: "npm:^3.2.4"
-    typescript: "npm:4.9.4"
-  languageName: unknown
-  linkType: soft
-
 "natural-compare@npm:^1.4.0":
   version: 1.4.0
   resolution: "natural-compare@npm:1.4.0"
@@ -3688,6 +3666,28 @@ __metadata:
   checksum: d6f04384bdf1105256581aef39991f825e358f3f48f081974b0e0f39ff5240c60ccafb5842cb79d1287517efa2b9ee172c702f2e4855ba6cc46948b40a43aa6e
   languageName: node
   linkType: hard
+
+"yarn4-nextjs-typescript-starter@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "yarn4-nextjs-typescript-starter@workspace:."
+  dependencies:
+    "@types/node": "npm:18.11.15"
+    "@types/prettier": "npm:^2"
+    "@types/react": "npm:18.0.26"
+    "@types/react-dom": "npm:18.0.9"
+    autoprefixer: "npm:^10.4.13"
+    eslint: "npm:8.29.0"
+    eslint-config-next: "npm:13.0.6"
+    next: "npm:13.0.6"
+    postcss: "npm:^8.4.20"
+    prettier: "npm:2.8.1"
+    prettier-plugin-tailwindcss: "npm:^0.2.1"
+    react: "npm:18.2.0"
+    react-dom: "npm:18.2.0"
+    tailwindcss: "npm:^3.2.4"
+    typescript: "npm:4.9.4"
+  languageName: unknown
+  linkType: soft
 
 "yocto-queue@npm:^0.1.0":
   version: 0.1.0
