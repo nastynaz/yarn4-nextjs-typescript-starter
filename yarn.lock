@@ -3686,6 +3686,9 @@ __metadata:
     react-dom: "npm:18.2.0"
     tailwindcss: "npm:^3.2.4"
     typescript: "npm:4.9.4"
+  dependenciesMeta:
+    next@13.0.6:
+      unplugged: true
   languageName: unknown
   linkType: soft
 

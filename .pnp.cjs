@@ -2960,14 +2960,14 @@ const RAW_RUNTIME_STATE =
     ]],\
     ["next", [\
       ["npm:13.0.6", {\
-        "packageLocation": "../../.yarn/berry/cache/next-npm-13.0.6-d05b793bd2-9.zip/node_modules/next/",\
+        "packageLocation": "./.yarn/unplugged/next-virtual-d2c51fd334/node_modules/next/",\
         "packageDependencies": [\
           ["next", "npm:13.0.6"]\
         ],\
         "linkType": "SOFT"\
       }],\
       ["virtual:ba2d48971b1c4ac1b74d67722301ff781af7c16996cd016e5e440c4716e7b0066bd9a97c890f82e60d309a2b564b3e2aca420cf36ce07ecd25e288d17cda98e7#npm:13.0.6", {\
-        "packageLocation": "./.yarn/__virtual__/next-virtual-d2c51fd334/3/.yarn/berry/cache/next-npm-13.0.6-d05b793bd2-9.zip/node_modules/next/",\
+        "packageLocation": "./.yarn/unplugged/next-virtual-d2c51fd334/node_modules/next/",\
         "packageDependencies": [\
           ["next", "virtual:ba2d48971b1c4ac1b74d67722301ff781af7c16996cd016e5e440c4716e7b0066bd9a97c890f82e60d309a2b564b3e2aca420cf36ce07ecd25e288d17cda98e7#npm:13.0.6"],\
           ["@next/env", "npm:13.0.6"],\
